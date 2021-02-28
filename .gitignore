@@ -1,0 +1,4 @@
+.vscode/settings.json
+*.ipynb
+.ipynb_checkpoints/*.ipynb
+.DS_Store
